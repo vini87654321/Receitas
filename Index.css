@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Alice&display=swap");
+
+:root {
+  --background-color: #573824;
+  --surface-color: #f0e8c2;
+
+  --text-color-primary: #291b1a;
+  --text-color-secondary: #573a37;
+  --text-color-on-bg: #f0e8c2;
+
+  --font-family: "Alice", sans-serif;
+  --heading1: 500 2rem/8.75rem var(--font-family);
+  --heading2: 500 1.5rem/9.3rem var(--font-family);
+  --paragrafh: 500 1rem/9.3rem var(--font-family);
+}
