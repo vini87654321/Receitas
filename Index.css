@@ -12,10 +12,10 @@ img {
   border-radius: 16px;
 }
 body {
+  background-color: #573824;
   background-image: url(Assets/bg-image.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: #573824 30%;
 }
 #page {
   background-color: #f0e8c2;
@@ -41,20 +41,26 @@ section + section {
 h1 {
   line-height: 140%;
   font-size: 40px;
-  margin-bottom: 4px;
-}
-
-h1,
-h2 {
-  color: #291b1a;
-  margin-bottom: 4px;
-  line-height: 150%;
+  margin-bottom: 2px;
 }
 
 h2 {
   font-size: 24px;
 }
 
+h1,
+h2 {
+  color: #291b1a;
+  margin-bottom: 2px;
+  line-height: 150%;
+}
+
 ul {
   padding: 24px;
+}
+
+footer {
+  color: #f0e8c2;
+  text-align: center;
+  padding-bottom: 48px;
 }
